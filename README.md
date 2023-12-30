@@ -1,2 +1,3 @@
 # LunaChat
-Channel chat plugin for CraftBukkit with support for 1.20.4
+
+1.20.4のspigot及びbungee APIに対応させたLunaChat
